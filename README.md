@@ -8,4 +8,6 @@ The code removes the high and low-frequency noises in addition to the electrical
 
 This script is moulded to work with the database mentioned above. To use this script please import first an ECG, in particular from such database.
 
+
+
 [1] - Johannesen L, Vicente J, Mason JW, Sanabria C, Waite-Labott K, Hong M, Guo P, Lin J, Sørensen JS, Galeotti L, Florian J, Ugander M, Stockbridge N, Strauss DG. Differentiating Drug-Induced Multichannel Block on the Electrocardiogram: Randomized Study of Dofetilide, Quinidine, Ranolazine, and Verapamil. Clin Pharmacol Ther. 2014 Jul 23. doi: 10.1038/clpt.2014.155.
